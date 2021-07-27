@@ -1,6 +1,6 @@
 ### Mike Ploythai 🤙🏼
 
-#### Student, developer, and creator. Based in Los Angeles.
+#### Student, developer, and creator
 
 ##### ABOUT
 - 🎓 3rd year computer science major at **Cal State Fullerton**
