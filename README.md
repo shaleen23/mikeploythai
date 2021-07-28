@@ -11,6 +11,7 @@
 
 ##### CURRENTLY
 - ⚙ Working on [ACM Fall 2021 Website](https://acm-beta.vercel.app)
+- 💡 Learning how to use Supabase
 - 💻 Preparing for internship application season
 - ✍🏼 Writing my next YouTube video
 
