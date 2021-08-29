@@ -10,10 +10,10 @@
 - 📽 I make [videos](https://youtube.com/channel/UCCM4FmUaCVo2928Yvg-G8rA) and [stream](https://twitch.tv/mikeploythai) sometimes
 
 ##### CURRENTLY
-- ⚙ Working on [ACM Fall 2021 Website](https://acm-beta.vercel.app)
+- ⚙ Working on [TuffyHacks 2022 website](https://tuffyhacks-com.vercel.app/)
 - 💡 Learning how to use Supabase
-- 💻 Preparing for internship application season
-- ✍🏼 Writing my next YouTube video
+- 💻 Applying to multiple tech internships
+- ✍🏼 Editing my 1st YouTube video
 
 ***
 
